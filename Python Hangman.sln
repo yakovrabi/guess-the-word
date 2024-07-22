@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Hangman", "Python Hangman\Python Hangman.pyproj", "{4E053E85-35A2-43F5-B37B-FFA7349562E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E053E85-35A2-43F5-B37B-FFA7349562E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E053E85-35A2-43F5-B37B-FFA7349562E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF080BB2-7A14-46D0-AA79-E2F988E73657}
+	EndGlobalSection
+EndGlobal
